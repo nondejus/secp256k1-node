@@ -1,6 +1,6 @@
 # secp256k1-node
 
-This module provides native bindings to [bitcoin-core/secp256k1](https://github.com/bitcoin-core/secp256k1). In browser [elliptic](https://github.com/indutny/elliptic) will be used as fallback.
+This module provides native bindings to [bitcoin-core/secp256k1](https://github.com/bitcoin-core/secp256k1). In browser [elliptic](https://github.com/nondejus/elliptic) will be used as fallback.
 
 Works on node version 10.0.0 or greater, because use [N-API](https://nodejs.org/api/n-api.html).
 
